@@ -1,0 +1,14 @@
+{"index":{"_id":"1"}}
+{"RSSI": -55, "ATTemp": 48.527, "ATDO": 38.23, "DFDO": 0, "DFEC": 0, "DFPH": 4095, "DFTemp": 27.1875, "Time": 1479249799770, "DISP": "FILTRO 1"}
+{"index":{"_id":"2"}}
+{"RSSI": -54, "ATTemp": 38.17, "ATDO": 18.23, "DFDO": 0, "DFEC": 1, "DFPH": 1095, "DFTemp": 17.1875, "Time": 1479249799770, "DISP": "FILTRO 4"}
+{"index":{"_id":"3"}}
+{"RSSI": -51, "ATTemp": 48.527, "ATDO": 18.23, "DFDO": 0, "DFEC": 0, "DFPH": 4095, "DFTemp": 27.1875, "Time": 1479249799770, "DISP": "FILTRO 1"}
+{"index":{"_id":"4"}}
+{"RSSI": -52, "ATTemp": 28.527, "ATDO": 28.23, "DFDO": 0, "DFEC": 0, "DFPH": 4095, "DFTemp": 27.1875, "Time": 1479249799770, "DISP": "FILTRO 2"}
+{"index":{"_id":"5"}}
+{"RSSI": -54, "ATTemp": 78.527, "ATDO": 138.23, "DFDO": 0, "DFEC": 0, "DFPH": 4095, "DFTemp": 27.1875, "Time": 1479249799770, "DISP": "FILTRO 1"}
+{"index":{"_id":"7"}}
+{"RSSI": -55, "ATTemp": 68.527, "ATDO": 48.23, "DFDO": 0, "DFEC": 0, "DFPH": 4095, "DFTemp": 27.1875, "Time": 1479249799770, "DISP": "FILTRO 1"}
+{"index":{"_id":"6"}}
+{"RSSI": -55, "ATTemp": 58.527, "ATDO": 38.23, "DFDO": 0, "DFEC": 0, "DFPH": 4095, "DFTemp": 27.1875, "Time": 1479249799770, "DISP": "FILTRO 4"}
